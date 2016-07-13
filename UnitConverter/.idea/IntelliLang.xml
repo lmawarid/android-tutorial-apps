@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="XML" injector-id="xml">
+      <display-name>android.support.design.widget.CoordinatorLayout</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().matches("android.support.design.widget.CoordinatorLayout"))]]></place>
+    </injection>
+  </component>
+</project>
